@@ -80,7 +80,7 @@ describe('application logic', () => {
             }))
         });
 
-        it('marks winner when just there\'s just one entry left', () => {
+        it('marks winner when there\'s just one entry left', () => {
             const state = Map({
                 vote: Map({
                     pair: List.of('Trainspotting', '28 Days Later'),
