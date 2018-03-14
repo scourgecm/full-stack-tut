@@ -1,2 +1,6 @@
+# Personal notes
 
-###Allways use Pure functions
+## Reminders
+
+- Allways use Pure functions
+- All Immutable Collection methods return new Collections
