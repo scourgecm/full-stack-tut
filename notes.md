@@ -1,0 +1,2 @@
+
+###Allways use Pure functions
